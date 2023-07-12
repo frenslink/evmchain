@@ -1,0 +1,32 @@
+{
+    "config": {
+      "chainId": 2046,
+      "homesteadBlock": 0,
+      "daoForkSupport": false,
+      "eip150Block": 0,
+      "eip155Block": 0,
+      "eip158Block": 0,
+      "byzantiumBlock": 0,
+      "constantinopleBlock": 0,
+      "petersburgBlock": 0,
+      "istanbulBlock": 0,
+      "muirGlacierBlock": 0,
+      "berlinBlock": 0,
+      "londonBlock": 0,
+      "terminalTotalDifficultyPassed": false,
+      "clique": {
+        "period": 10,
+        "epoch": 30000
+      }
+    },
+    "difficulty": "1",
+    "gasLimit": "30000000",
+    "coinbase": "0x57d943812ddb830ccf8db31bc0ce5181b9b76cd9",
+    "extradata": "0x000000000000000000000000000000000000000000000000000000000000000057d943812ddb830ccf8db31bc0ce5181b9b76cd90000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "alloc": {
+      "0x57d943812ddb830ccf8db31bc0ce5181b9b76cd9": {
+        "balance": "1000000000000000000000"
+      }
+    },
+    "timestamp": "0x64A6B81A"
+  }
