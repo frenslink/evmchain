@@ -1,2 +1,3 @@
-/geth
+/geth_bootnode
+/geth_rpcnode
 .env
