@@ -15,7 +15,7 @@
       "londonBlock": 0,
       "terminalTotalDifficultyPassed": false,
       "clique": {
-        "period": 10,
+        "period": 15,
         "epoch": 30000
       }
     },
@@ -28,5 +28,5 @@
         "balance": "1000000000000000000000"
       }
     },
-    "timestamp": "0x64A6B81A"
+    "timestamp": "0x64B566F7"
   }
