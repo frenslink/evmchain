@@ -59,6 +59,8 @@ services:
     ports:
       - "8545:8545"
       - "8546:8546"
+    volumes:
+      - ./geth_rpc_node:/root/.ethereum/geth
 networks:
   priv-eth-net:
     driver: bridge
